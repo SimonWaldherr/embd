@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/codegangsta/cli"
-	_ "github.com/reef-pi/embd/host/all"
+	_ "github.com/SimonWaldherr/embd/host/all"
 )
 
 var version = "0.1.0"
