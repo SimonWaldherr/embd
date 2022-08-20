@@ -8,7 +8,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/reef-pi/embd"
+	"github.com/SimonWaldherr/embd"
 )
 
 const (

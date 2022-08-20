@@ -3,7 +3,7 @@ package servo
 
 import (
 	"github.com/golang/glog"
-	"github.com/kidoman/embd/util"
+	"github.com/SimonWaldherr/embd/util"
 )
 
 const (

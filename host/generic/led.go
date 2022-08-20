@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/reef-pi/embd"
+	"github.com/SimonWaldherr/embd"
 )
 
 type led struct {

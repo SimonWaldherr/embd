@@ -9,8 +9,8 @@
 package rpi
 
 import (
-	"github.com/reef-pi/embd"
-	"github.com/reef-pi/embd/host/generic"
+	"github.com/SimonWaldherr/embd"
+	"github.com/SimonWaldherr/embd/host/generic"
 )
 
 var spiDeviceMinor = 0
